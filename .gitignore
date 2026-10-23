@@ -1,0 +1,20 @@
+# configuração da instalação (endereços de email, SharePoint)
+config.json
+
+# perfis do Chrome (sessões logadas)
+chrome_perfil_virada/
+chrome_perfil_virada_2/
+
+# estado e logs gerados em execução
+viradas_processadas*.json
+viradas_processadas.tmp
+tanques_expedindo.json
+log_virada.txt
+*.png
+!docs/*.png
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/

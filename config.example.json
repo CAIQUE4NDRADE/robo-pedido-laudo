@@ -1,0 +1,19 @@
+{
+  "MODO_TESTE": true,
+  "EMAIL_LABORATORIO": "laboratorio@exemplo.com",
+  "EMAIL_CC": [],
+  "EMAIL_TESTE": "responsavel@exemplo.com",
+  "EMAIL_AVISO_ABERTURA": "responsavel@exemplo.com",
+
+  "SP_SITE": "https://SUAEMPRESA.sharepoint.com/sites/SEU_SITE",
+  "SP_RAIZ": "/sites/SEU_SITE/Documentos Compartilhados/OPERACOES/PASSAGEM DE TURNO",
+  "SP_ARQUIVO_ID": "00000000-0000-0000-0000-000000000000",
+  "NOME_PLANILHA": "A1 E A2",
+
+  "TANQUES_BASE": {
+    "BIODIESEL B100": ["103", "105", "203", "206"],
+    "ETANOL ANIDRO": ["101", "102", "116", "201", "202"]
+  },
+  "B100_PREFERIDOS": ["103", "105"],
+  "TANQUES_HIDRATADO": ["117", "121", "212", "213"]
+}
