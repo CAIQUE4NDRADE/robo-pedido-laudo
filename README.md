@@ -4,7 +4,7 @@ Automação em Python que **solicita laudos de qualidade ao laboratório só qua
 
 > **Resultado:** cerca de **R$ 20 mil por mês de saving**, porque o terminal deixou de pagar laudos que não precisava.
 
-![Tela do PC robô](docs/tela_robo.png)
+![Tela do PC robô](tela_robo.png)
 
 ---
 
